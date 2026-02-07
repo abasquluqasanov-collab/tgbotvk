@@ -1,0 +1,9 @@
+# Telegram bot
+aiogram>=3.15.0
+
+# VK API
+vk_api>=11.9.9
+
+# Environment and async
+python-dotenv>=1.0.0
+aiofiles>=24.1.0
